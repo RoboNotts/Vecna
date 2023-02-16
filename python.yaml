@@ -2,3 +2,6 @@ python-linnaeus:
   debian:
     pip:
       packages: ["https://github.com/RoboNotts/Linnaeus/releases/download/0.1.0/linnaeus_core-0.1.0-py3-none-any.whl"]
+  ubuntu:
+    pip:
+      packages: ["https://github.com/RoboNotts/Linnaeus/releases/download/0.1.0/linnaeus_core-0.1.0-py3-none-any.whl"]
