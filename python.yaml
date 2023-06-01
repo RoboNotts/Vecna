@@ -1,7 +1,7 @@
 python-linnaeus:
   debian:
     pip:
-      packages: ["git+https://github.com/RoboNotts/Linnaeus.git@evil_yolo"]
+      packages: ["git+https://github.com/RoboNotts/Linnaeus.git@fcos_rotk"]
   ubuntu:
     pip:
-      packages: ["git+https://github.com/RoboNotts/Linnaeus.git@evil_yolo"]
+      packages: ["git+https://github.com/RoboNotts/Linnaeus.git@fcos_rotk"]
