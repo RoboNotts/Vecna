@@ -5,3 +5,8 @@ python-linnaeus:
   ubuntu:
     pip:
       packages: ["git+https://github.com/RoboNotts/Linnaeus.git@fcos_rotk"]
+python-openCV:
+  ubuntu:
+    pip:
+      packages: ["opencv-python"]
+      
