@@ -9,4 +9,7 @@ python-opencv:
   ubuntu:
     pip:
       packages: ["opencv-python"]
-      
+python-pandas:
+  ubuntu:
+    pip:
+      packages: ["pandas"]
